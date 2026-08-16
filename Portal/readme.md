@@ -1,4 +1,5 @@
 ## Portal Clone
+### STATUS [FINISHED]
 
 This is a small Portal-inspired game made in Unity.
 
