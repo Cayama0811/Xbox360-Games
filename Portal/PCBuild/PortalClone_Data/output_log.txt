@@ -1,0 +1,32 @@
+Initialize engine version: 5.4.1f1 (4b2f7f483110)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x402)
+    Vendor:   Intel
+    VRAM:     1108 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\PAPA\Documents\Portal\PCBuild\PortalClone_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.847400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2584 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.564200 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 0.466500 ms (FindLiveObjects: 0.036100 ms CreateObjectMapping: 0.020500 ms MarkObjects: 0.165000 ms  DeleteObjects: 0.244000 ms)
+
