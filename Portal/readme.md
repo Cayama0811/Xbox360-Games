@@ -4,7 +4,7 @@
 This is a small Portal-inspired game made in Unity.
 
 You can download it on itch.io:
-[dont got the link yet brotha]
+[here](https://cayama0811.itch.io/portal-clone-xbox-360)
 
 ### PC
 
