@@ -4,7 +4,7 @@
 This is an Input Tester for the Xbox 360 controllers
 
 You can download it on itch.io:
-[dont got the link yet brotha]
+[here](https://cayama0811.itch.io/input-tester-xbox-360)
 
 ### Xbox 360
 
