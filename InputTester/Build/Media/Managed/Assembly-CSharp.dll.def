@@ -1,0 +1,22 @@
+EXPORTS
+	methods	@1
+	methods_end	@2
+	code_offsets	@3
+	method_info_offsets	@4
+	extra_method_table	@5
+	extra_method_info_offsets	@6
+	class_name_table	@7
+	got_info_offsets	@8
+	ex_info_offsets	@9
+	unwind_info	@10
+	class_info_offsets	@11
+	plt	@12
+	plt_end	@13
+	mono_image_table	@14
+	mono_aot_got_addr	@15
+	mono_aot_file_info	@16
+	blob	@17
+	mono_assembly_guid	@18
+	mono_aot_version	@19
+	mono_runtime_version	@20
+	mem_end	@21
